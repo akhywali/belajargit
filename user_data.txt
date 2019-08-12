@@ -1,7 +1,0 @@
-{
-[id:1,
-nama:lathif],
-
-[id:2,
-nama:wali]
-}
